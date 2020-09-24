@@ -1,0 +1,1 @@
+gcc src/*.c -o bin/test -I ./include/ -L ./lib/ -lglu32 -lopengl32 -lglfw3 -lgdi32 -lglew32

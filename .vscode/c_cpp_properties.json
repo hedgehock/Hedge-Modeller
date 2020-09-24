@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Win",
+            "includePath": [
+                "./include/"
+            ]
+        }
+    ],
+    "version": 4
+}
