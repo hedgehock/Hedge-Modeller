@@ -1,1 +1,1 @@
-Simple 3D rendering application using OPENGL in C.
+Simple 3D rendering application using OpenGL in C.
